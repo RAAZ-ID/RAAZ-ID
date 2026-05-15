@@ -38,7 +38,7 @@
 ## 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,vscode,figma,mysql" />
+<img src="https://skillicons.dev/icons?i=html,Golang(Go),python,java,github,vscode,figma,mysql" />
 </p>
 
 ---
