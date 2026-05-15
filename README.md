@@ -36,7 +36,7 @@
 ### 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,Golang (Go),python,java,github,vscode,figma,mysql,cisco" />
+<img src="https://skillicons.dev/icons?i=html,Golang (Go),python,java,github,vscode,figma,mysql" />
 </p>
 
 ---
@@ -44,18 +44,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RAAZ-ID&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=RAAZ-ID&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAAZ-ID&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=RAAZ-ID&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/RAAZ-ID/RAAZ-ID/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RAAZ-ID/RAAZ-ID/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
