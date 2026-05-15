@@ -37,9 +37,11 @@
 
 ## 🛠 Languages and Tools
 
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,Golang(Go),python,java,github,vscode,figma,mysql" />
+<img src="https://skillicons.dev/icons?i=html,python,java,go,github,vscode,figma,mysql" />
 </p>
+
 
 ---
 
@@ -57,7 +59,9 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/RAAZ-ID/RAAZ-ID/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RAAZ-ID/RAAZ-ID/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
